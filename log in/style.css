@@ -51,6 +51,23 @@ body{
 }
 
 #cuadro{
-  
+  width: 35rem;
   padding-bottom: 50px;
+  
+}
+
+#log{
+  position: relative;
+  right: 200px;
+  bottom: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style:italic ;
+}
+
+#ltext{
+  position: relative;
+  right: 140px;
+  bottom: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style:italic ;
 }
